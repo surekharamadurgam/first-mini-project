@@ -1,0 +1,17 @@
+body {
+  background-color: darkgrey;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+.head {
+  position: relative;
+  background-color: #fff;
+  justify-content: center;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  margin-top: 245px;
+}
